@@ -59,21 +59,22 @@ module.exports = {
           'pc/mixins/', //二级目录
           'pc/mixins/practice',
         ]
-      },
-      {
-        title: '通用组件', // 侧边栏名称
-        collapsable: true, // 可折叠
-        children: [
-          'components/', // 你的md文件地址
-        ]
-      },
-      {
-        title: 'mobile内容', // 侧边栏名称
-        collapsable: true, // 可折叠
-        children: [
-          '/mobile/one', // 你的md文件地址
-        ]
       }
+      // ,
+      // {
+      //   title: '通用组件', // 侧边栏名称
+      //   collapsable: true, // 可折叠
+      //   children: [
+      //     'components/', // 你的md文件地址
+      //   ]
+      // },
+      // {
+      //   title: 'mobile内容', // 侧边栏名称
+      //   collapsable: true, // 可折叠
+      //   children: [
+      //     '/mobile/one', // 你的md文件地址
+      //   ]
+      // }
     ]
   },
 }
