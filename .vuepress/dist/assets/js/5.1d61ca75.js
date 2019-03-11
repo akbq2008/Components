@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{299:function(t,e,n){"use strict";n.r(e);var s={},r=n(1),c=Object(r.a)(s,function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("img",{attrs:{src:this.url,alt:""}})])},[],!1,null,"58ce40b6",null);e.default=c.exports}}]);

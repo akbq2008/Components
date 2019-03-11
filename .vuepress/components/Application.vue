@@ -3,19 +3,15 @@
     <div class="T-1200 ">
       <div class="T-fixed">
         <div class="pagetit2">
-          <a
-            href="/article-yyal-1"
-            target="_blank"
-          ><span class="btnsty moreap">更多&gt;&gt;</span></a>
+          <a href="/article-yyal-1" target="_blank"
+            ><span class="btnsty moreap">更多&gt;&gt;</span></a
+          >
           <h1>应用</h1>
         </div>
         <div class="ap_casewrap">
           <div class="ap_casebox">
-            <a
-              href="/c/EinScan助力数字雕塑之生产制造应用"
-              target="_blank"
-            >
-              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg">
+            <a href="/c/EinScan助力数字雕塑之生产制造应用" target="_blank">
+              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg" />
               <h4>EinScan助力数字雕塑之生产制造应用</h4>
             </a>
           </div>
@@ -24,8 +20,10 @@
               href="/c/艺术与3D技术深度融合_广美余楠老师制作微缩景观致敬传统文化"
               target="_blank"
             >
-              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg">
-              <h4>艺术与3D技术深度融合，广美余楠老师制作微缩景观致敬传统文化</h4>
+              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg" />
+              <h4>
+                艺术与3D技术深度融合，广美余楠老师制作微缩景观致敬传统文化
+              </h4>
             </a>
           </div>
           <div class="ap_casebox">
@@ -33,7 +31,7 @@
               href="/c/个性化定制一大步一站式3D解决方案助力研发可换鞋跟高跟鞋"
               target="_blank"
             >
-              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg">
+              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg" />
               <h4>个性化定制一大步：一站式3D解决方案助力研发可换鞋跟高跟鞋</h4>
             </a>
           </div>
@@ -42,11 +40,10 @@
               href="/c/3D技术帮助叙利亚残疾儿童重新站立_难民就医不再坎坷"
               target="_blank"
             >
-              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg">
+              <img src="/static/images/3d2766270e134c2f956417ac8142b75e.jpg" />
               <h4>3D技术帮助叙利亚残疾儿童重新站立，难民就医不再坎坷</h4>
             </a>
           </div>
-
         </div>
       </div>
     </div>

@@ -56,8 +56,11 @@ module.exports = {
         title: 'pc模块', // 侧边栏名称
         collapsable: true, // 可折叠
         children: [
+          'pc/components/',
+          'pc/components/dialog',
           'pc/mixins/', //二级目录
-          'pc/mixins/practice',
+          'pc/mixins/install',
+          'pc/mixins/practice'
         ]
       }
       // ,
