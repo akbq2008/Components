@@ -58,6 +58,8 @@ module.exports = {
         children: [
           'pc/components/',
           'pc/components/dialog',
+          'pc/components/login',
+          'pc/components/verfication',
           'pc/mixins/', //二级目录
           'pc/mixins/install',
           'pc/mixins/practice'
